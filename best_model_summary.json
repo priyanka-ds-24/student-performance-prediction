@@ -1,0 +1,8 @@
+{
+  "best_model": "Gradient_Boosting",
+  "best_scenario": "with_period_grades",
+  "test_MAE": 1.152634339661662,
+  "test_RMSE": 1.9828717938282463,
+  "test_R2": 0.8082530364666415,
+  "interpretation_note": "Metrics are from a single 80/20 holdout split. They are not a guarantee of future performance. Compare the early_warning and with_period_grades scenarios before claiming the model is useful."
+}
